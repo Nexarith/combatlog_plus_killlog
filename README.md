@@ -1,5 +1,7 @@
 # combatlog_plus_killlog
 
+<img width="1254" height="1254" alt="combatlog_plus_killlog_cover" src="https://github.com/user-attachments/assets/c07be739-240f-49b9-961a-3fde504b8e68" />
+
 A PvP system modpack for Minetest/Luanti that combines combat tracking, kill feed logging, combat tagging, and anti-combat-logging protection.
 
 ---
